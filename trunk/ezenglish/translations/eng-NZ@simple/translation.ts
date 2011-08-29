@@ -6817,7 +6817,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>Change information</source>
-        <translation>Change information</translation>
+        <translation>Edit profile</translation>
     </message>
     <message>
         <source>Change password</source>
